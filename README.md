@@ -10,7 +10,7 @@ Project	Short Description	Link
 
 | Project               | Short Description                                                      | Link                                |
 | --------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
-| 📝 To-Do List App     | A simple task manager to organize daily work                           |     TodoList.py   |
+| 📝 To-Do List App     | A simple task manager to organize daily work                           |     TodoList.py  |
 | ➗ Calculator          | Basic arithmetic calculator to perform add, subtract, multiply, divide |    calculator.py    |
 | 🔐 Password Generator | Generate strong and random passwords                                   | passwordgenerator.py |
 
